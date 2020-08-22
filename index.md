@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Well, hello there.
 
-You can use the [editor on GitHub](https://github.com/bitwiseor/bitwiseor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you're reading this, you've made your way to my GitHub Pages site. Enjoy your stay.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Finite State of Mind
 
-### Markdown
+I'm thinking about starting a project. An educational project, probably. What will I teach? Probably C, or cryptography. Or both. Or automata. The world is my oyster, and Finite State of Mind is a placeholder name.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm leaving the default stuff below, so I don't forget how Markdown works. Look forward to changes!
 
 ```markdown
 Syntax highlighted code block
